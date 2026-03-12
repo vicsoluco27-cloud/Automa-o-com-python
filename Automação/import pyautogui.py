@@ -66,4 +66,4 @@ for linha in tabela.index:
     pyautogui.press("Tab")
 
     pyautogui.press("Enter")
-    pyautogui.scroll(1000)
+    pyautogui.scroll(100)
