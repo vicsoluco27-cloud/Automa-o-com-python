@@ -67,3 +67,5 @@ for linha in tabela.index:
 
     pyautogui.press("Enter")
     pyautogui.scroll(100)
+ #triste
+ 
